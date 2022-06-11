@@ -1,0 +1,6 @@
+---
+# tasks file for pri_role_1
+- name: We are in the primary role
+  ansible.builtin.debug:
+    msg: We are in pri-role-1
+

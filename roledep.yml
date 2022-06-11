@@ -1,0 +1,6 @@
+# This is a requirements.yml file for the role
+# If you use the init-role role, it will pull these
+# roles in at job runtime
+- src: https://github.com/lotaris-xx/roles-dep-role-1.git
+  name: dep-role-1
+  version: main
